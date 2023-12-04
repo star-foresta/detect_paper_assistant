@@ -1,7 +1,8 @@
  # this file goes into the prompt to tell the bot your interest areas. you can write down your interests in whatever format you want
  # they can be simple, like a one line description like
- 1. Shows new powerful test set contamination or membership inference methods for language models
+ 1. Shows new powerful test set contamination or membership inference methods for object detection models or multi-object tracking models
  # or in the case of more general areas like `instruction-following`, you might want to give examples
- 2. New methodological improvements to RLHF or instruction-following which are specific fine-tuning steps that are taken to make language models better at following user instructions across a range of tasks.
-    - Relevant: papers that discuss specific methods like RLHF, or instruction-tuning datasets, improving these methods, or analyzing them. Usually these papers will explicitly mention RLHF, instruction-following or instruction-tuning.
-    - Not relevant: papers about adaptation to some task. Simply following instructions or inputs are not sufficient.
+2. Methodological advancements in target detection and multi-object tracking, emphasizing innovative approaches and technologies specifically for tasks involving drones, remote sensing, Synthetic Aperture Radar (SAR), and aircraft. This includes a focus on novel developments based on Vision Transformer and Masked Autoencoder architectures.
+
+Relevant: Papers and studies that delve into novel methods and technologies in target detection and multi-object tracking for drones, remote sensing, SAR, and aircraft. This includes research on advancements or analyses of Vision Transformer and Masked Autoencoder-based approaches. Typically, these papers will explicitly mention innovative methodologies, target detection, multi-object tracking, drones, remote sensing, SAR, aircraft, Vision Transformer, or Masked Autoencoder.
+Not Relevant: General task adaptation research or studies that do not focus on specific methodological advancements in the context of target detection and multi-object tracking for the mentioned applications.
